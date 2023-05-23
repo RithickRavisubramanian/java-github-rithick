@@ -1,3 +1,5 @@
+//create a class with anyname with 2 varibale, 2 method 2 instance and access all the variables and methos using both instance
+
 package com.dal;
 
 
